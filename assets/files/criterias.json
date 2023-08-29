@@ -1,0 +1,191 @@
+[
+  {
+    "nodeId": 1,
+    "nodeName": "Photos",
+    "lineNumber": 1,
+    "columnNumber": 1,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO"
+  },
+  {
+    "nodeId": 2,
+    "nodeName": "Lieu",
+    "lineNumber": 2,
+    "columnNumber": 2,
+    "nodeType": "NODE",
+    "childVisibility": false,
+    "searchPath": "PHOTO - LIEU_"
+  },
+  {
+    "nodeId": 3,
+    "nodeName": "Toulouse",
+    "lineNumber": 3,
+    "columnNumber": 3,
+    "nodeType": "VALUE"
+  },
+  {
+    "nodeId": 4,
+    "nodeName": "Narbonne",
+    "lineNumber": 4,
+    "columnNumber": 3,
+    "nodeType": "VALUE"
+  },
+  {
+    "nodeId": 5,
+    "nodeName": "Equateur",
+    "lineNumber": 5,
+    "columnNumber": 3,
+    "nodeType": "VALUE"
+  },
+  {
+    "nodeId": 6,
+    "nodeName": "Temps",
+    "lineNumber": 6,
+    "columnNumber": 2,
+    "nodeType": "NODE",
+    "childVisibility": false,
+    "searchPath": "PHOTO - TEMPS"
+  },
+  {
+    "nodeId": 7,
+    "nodeName": "Année",
+    "lineNumber": 7,
+    "columnNumber": 3,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - TEMPS - ANNEE"
+  },
+  {
+    "nodeId": 8,
+    "nodeName": "2022",
+    "lineNumber": 8,
+    "columnNumber": 4,
+    "nodeType": "VALUE"
+  },
+  {
+    "nodeId": 9,
+    "nodeName": "2023",
+    "lineNumber": 9,
+    "columnNumber": 4,
+    "nodeType": "VALUE"
+  },
+  {
+    "nodeId": 10,
+    "nodeName": "2024",
+    "lineNumber": 10,
+    "columnNumber": 4,
+    "nodeType": "VALUE"
+  },
+  {
+    "nodeId": 11,
+    "nodeName": "Mois",
+    "lineNumber": 11,
+    "columnNumber": 3,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - TEMPS - MOIS_"
+  },
+  {
+    "nodeId": 12,
+    "nodeName": "01 - Janvier",
+    "lineNumber": 12,
+    "columnNumber": 4,
+    "nodeType": "VALUE"
+  },
+  {
+    "nodeId": 13,
+    "nodeName": "02 - Février",
+    "lineNumber": 13,
+    "columnNumber": 4,
+    "nodeType": "VALUE"
+  },
+  {
+    "nodeId": 14,
+    "nodeName": "03 - Mars",
+    "lineNumber": 14,
+    "columnNumber": 4,
+    "nodeType": "VALUE"
+  },
+  {
+    "nodeId": 15,
+    "nodeName": "Thème",
+    "lineNumber": 15,
+    "columnNumber": 2,
+    "nodeType": "NODE",
+    "childVisibility": false,
+    "searchPath": "PHOTO - THEME"
+  },
+  {
+    "nodeId": 16,
+    "nodeName": "Famille",
+    "lineNumber": 16,
+    "columnNumber": 3,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - THEME - FAMIL"
+  },
+  {
+    "nodeId": 17,
+    "nodeName": "Evènement",
+    "lineNumber": 17,
+    "columnNumber": 4,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - THEME - FAMIL - EVENE"
+  },
+  {
+    "nodeId": 18,
+    "nodeName": "Mariage",
+    "lineNumber": 18,
+    "columnNumber": 5,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - THEME - FAMIL - EVENE - MARIA"
+  },
+  {
+    "nodeId": 19,
+    "nodeName": "Noel",
+    "lineNumber": 19,
+    "columnNumber": 5,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - THEME - FAMIL - EVENE - NOEL_"
+  },
+  {
+    "nodeId": 20,
+    "nodeName": "Vacances",
+    "lineNumber": 20,
+    "columnNumber": 4,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - THEME - FAMIL - VACAN"
+  },
+  {
+    "nodeId": 21,
+    "nodeName": "Sujets",
+    "lineNumber": 21,
+    "columnNumber": 3,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - THEME - SUJET"
+  },
+  {
+    "nodeId": 22,
+    "nodeName": "Paysages",
+    "lineNumber": 22,
+    "columnNumber": 4,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - THEME - SUJET - PAYSA"
+  },
+  {
+    "nodeId": 23,
+    "nodeName": "Portes",
+    "lineNumber": 23,
+    "columnNumber": 4,
+    "nodeType": "NODE",
+    "childVisibility": true,
+    "searchPath": "PHOTO - THEME - SUJET - PORTE"
+  }
+]

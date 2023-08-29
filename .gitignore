@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+.env
+temp
+archive
+assets/files/photoCriterias.json
+assets/files/photos.json
